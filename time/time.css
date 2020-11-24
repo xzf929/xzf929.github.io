@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-head{
+/* head{
     position: absolute;
     display: block;
     height: 5vh;
@@ -24,7 +24,7 @@ head{
     position: absolute;
     right: 0px;
     margin: 5px 10px ;
-}
+} */
 main{
     position: absolute;
     height: 40vh;
