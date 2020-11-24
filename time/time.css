@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+head{
+    position: absolute;
+    display: block;
+    height: 5vh;
+    width: 100vw;
+    background-color: rgb(237,237,237);
+}
+
+.div1{
+    display: inline-block;
+    /* border: 1px red solid; */
+    position: absolute;
+    margin: 5px 10px;
+}
+
+.div2{
+    display: inline-block;
+    /* border: 1px red solid; */
+    position: absolute;
+    right: 0px;
+    margin: 5px 10px ;
+}
+main{
+    position: absolute;
+    height: 40vh;
+    width: 100vw;
+    background-color: rgb(35,177,77);
+    top: 50%;
+    margin-top: -21vh;
+}
+
+.info{
+    box-sizing: border-box;
+    /* border: 1px red solid; */
+    height: 20vh;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+#success,#demo{
+    font-family: "Microsoft YaHei",微软雅黑;
+    font-size: 4vh;
+    color: rgb(30,35,41);
+}
+
+.time{
+    box-sizing: border-box;
+    /* border: 1px red solid; */
+    height: 20vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
