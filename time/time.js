@@ -23,4 +23,4 @@ function checkTime(i){
     return i;
 }
 
-window.setInterval("startTime()",1000);
+// window.setInterval("startTime()",1000);
