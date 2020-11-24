@@ -13,14 +13,13 @@
 
 .div1{
     display: inline-block;
-    /* border: 1px red solid; */
+
     position: absolute;
     margin: 5px 10px;
 }
 
 .div2{
     display: inline-block;
-    /* border: 1px red solid; */
     position: absolute;
     right: 0px;
     margin: 5px 10px ;
